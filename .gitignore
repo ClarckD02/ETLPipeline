@@ -5,3 +5,4 @@ __pycache__/
 config/aws_config.json
 config/finnhub_config.json
 config/mongo_config.json
+data/
